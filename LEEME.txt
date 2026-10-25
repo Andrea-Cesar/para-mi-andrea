@@ -1,9 +1,0 @@
-REGALO PARA ANDREA — RECORRIDO MÁGICO
-
-1. Abre index.html para probar en tu computadora.
-2. Crea un repositorio NUEVO en GitHub (no reemplaces la invitación de boda).
-3. Sube index.html y la carpeta assets completa, conservando sus nombres.
-4. Activa Settings > Pages > Deploy from a branch > main / root.
-5. Comparte el enlace de GitHub Pages con Andrea.
-
-La música comienza al tocar el botón inicial. Las fotos no han sido retocadas.
